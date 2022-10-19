@@ -12,7 +12,7 @@ library(foreign)
 library(zoo)
 library(ggpubr)
 
-# Importando os dados do SIVEP do Estado da Amazonia 
+# Importando os dados do SIVEP do Estado do Amazonas
 # para 2020,2021 e 2022 (até Semana 34)
 # Assim você tem 3 bancos em formato DBF , um para cada ano
 # Vamos importar e depois unir todos em um único objeto  
